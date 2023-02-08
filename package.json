@@ -1,0 +1,18 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  },
+  "dependencies": {
+    "vuepress-plugin-helper-live2d": "^1.0.2"
+  }
+}
