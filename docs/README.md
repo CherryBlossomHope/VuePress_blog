@@ -5,7 +5,7 @@ heroText: 这东西全是坑
 tagline: '这是我的第一个 VuePress 站点'
 actions:
   - text: 快速上手
-    link: /javaScript/ES13.md
+    link: /javaScript/deepCopy.md
     type: primary
 features:
   - title: 简洁至上

@@ -22,6 +22,10 @@ export default defineUserConfig({
                 text: 'JavaScript',
                 children: [
                     {
+                        text: '深拷贝',
+                        link: '/javaScript/deepCopy.md',
+                    },
+                    {
                         text: 'ES13',
                         link: '/javaScript/ES13.md',
                     },
