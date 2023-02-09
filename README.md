@@ -21,3 +21,11 @@ npm run docs:dev
 ```
 npm run docs:build
 ```
+
+### 注意 docs/config.ts 中
+
+```
+base: '/wtt.github.io/'
+```
+
+### base 默认地址为 "/" 根据情况填写(这里填写的为本人 GitHub 仓库地址)
