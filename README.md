@@ -22,7 +22,7 @@ npm run docs:dev
 npm run docs:build
 ```
 
-### 注意 docs/config.ts 中
+## 注意 docs/config.ts 中
 
 ```
 base: '/wtt.github.io/'
