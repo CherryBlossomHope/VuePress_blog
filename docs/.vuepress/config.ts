@@ -24,6 +24,12 @@ export default defineUserConfig({
                     children: ['/guide/README.md', '/guide/getting-started.md'],
                 },
             ],
+            '/javaScript/': [
+                {
+                    text: 'JavaScript',
+                    children: ['/javaScript/ES13.md', '/javaScript/getting-started.md'],
+                },
+            ],
         },
     })
 })
