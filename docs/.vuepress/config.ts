@@ -44,6 +44,15 @@ export default defineUserConfig({
                     },
                 ],
             },
+            {
+                text: 'TypeScript',
+                children: [
+                    {
+                        text: 'Event事件类型',
+                        link: '/typeScript/eventType.md',
+                    },
+                ],
+            },
         ],
     })
 })
