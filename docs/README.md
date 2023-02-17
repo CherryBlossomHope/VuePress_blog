@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/avatar.png
-heroText: 这东西全是坑
+heroText: 前端知识点整理
 tagline: '这是我的第一个 VuePress 站点'
 actions:
   - text: 快速上手
