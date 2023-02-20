@@ -26,6 +26,10 @@ export default defineUserConfig({
                         link: '/javaScript/deepCopy.md',
                     },
                     {
+                        text: '模糊查询',
+                        link: '/javaScript/blur.md',
+                    },
+                    {
                         text: 'ES13',
                         link: '/javaScript/ES13.md',
                     },
