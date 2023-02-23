@@ -55,6 +55,10 @@ export default defineUserConfig({
                         text: 'Event事件类型',
                         link: '/typeScript/eventType.md',
                     },
+                    {
+                        text: '防抖&&节流',
+                        link: '/typeScript/Debounce&Throttle.md',
+                    },
                 ],
             },
         ],
